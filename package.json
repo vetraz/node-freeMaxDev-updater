@@ -1,0 +1,21 @@
+{
+  "name": "fmaxmind-updater",
+  "version": "1.0.0",
+  "description": "Node.js module for automatic update of free maxmind geoip database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maxmind",
+    "geoip",
+    "free",
+    "update",
+    "download"
+  ],
+  "author": "Artem Bolgar <laizerart@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "md5-file": "^3.1.1"
+  }
+}
